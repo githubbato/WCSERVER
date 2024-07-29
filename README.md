@@ -1,2 +1,2 @@
 # WCSERVER
-mikejr
+This is activities files 
