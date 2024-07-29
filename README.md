@@ -1,2 +1,2 @@
 # WCSERVER
-This is activities files 
+This is the folder for all the activities 
